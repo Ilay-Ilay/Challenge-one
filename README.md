@@ -21,12 +21,12 @@ A simple card challenge
 
 ### Screenshot
 
-![](./images/Screenshot%202025-02-08%20at%2020.01.29%201.png.jpg)
+![](./Screenshot%202025-02-08%20at%2020.01.29%201.png.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](/index.html)
+- Solution URL: [Solution URL here](/index.html)
 
 ### Built with
 
