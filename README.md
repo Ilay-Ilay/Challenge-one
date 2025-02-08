@@ -21,7 +21,7 @@ A simple card challenge
 
 ### Screenshot
 
-![](./Screenshot%202025-02-08%20at%2020.01.29%201.png.jpg)
+![](Screenshot%202025-02-08%20at%2020.01.29%201.png)
 
 
 ### Links
